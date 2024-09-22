@@ -1,6 +1,7 @@
 # Gen-AI-Engineer
 
 **RAG Model for QA Bot**
+
 This Python code implements a Retrieval-Augmented Generation (RAG) model for a Question Answering (QA) bot. It leverages Pinecone for efficient vector storage and retrieval, and Cohere for generating informative and relevant responses. The code includes data preprocessing, embedding generation, Pinecone upsert, and RAG query processing.
 
 Key Features:
