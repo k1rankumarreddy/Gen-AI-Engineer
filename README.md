@@ -1,6 +1,6 @@
 # Gen-AI-Engineer
 
-** RAG Model for QA Bot **
+**RAG Model for QA Bot**
 
 This Python code implements a Retrieval-Augmented Generation (RAG) model for a Question Answering (QA) bot. It leverages Pinecone for efficient vector storage and retrieval, and Cohere for generating informative and relevant responses. The code includes data preprocessing, embedding generation, Pinecone upsert, and RAG query processing.
 
@@ -15,7 +15,7 @@ Consider using a more robust text preprocessing pipeline if your data contains n
 
 
 
-** Interactive QA Bot with Streamlit and Cohere **
+**Interactive QA Bot with Streamlit and Cohere**
 
 This Python code implements an interactive Question Answering (QA) bot using Streamlit as the frontend and Cohere for the backend. It allows users to:
 
@@ -43,7 +43,7 @@ This Python code implements an interactive Question Answering (QA) bot using Str
 Create a Dockerfile to containerize the application.
 Build the Docker image using docker build -t your-image-name .
 Run the container using docker run -p 8501:8501 your-image-name.
-Access the interface at http://localhost:8501.
+Access the interface at 'http://localhost:8501'.
 
 This code can be deployed using Docker for easy containerization and scalability. Instructions on creating the Docker image and running the container will be provided in a separate file.
 
